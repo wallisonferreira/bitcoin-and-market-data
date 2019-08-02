@@ -12,7 +12,7 @@
 - Median Confirmation Time
 - New Members
 - New Posts
-- Number Of Addresses
+- Number of Addresses
 - Number of Transactions
 - Oil Price
 - Output Volume
@@ -51,4 +51,3 @@
 |Trade Volume	                  |https://www.blockchain.com/pt/charts/trade-volume	               |TradeVolume               |
 |Transaction Fees	              |https://www.blockchain.com/pt/charts/transaction-fees	           |TransactionFees           |
 |Transactions/Trade Ratio	      |https://www.blockchain.com/pt/charts/transaction-fees-usd	       |TransactionsFeesUSD       |
-|Views On Wikipedia	              |https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=all-time&pages=Bitcoin https://bitcointalk.org/index.php?action=stats|	ViewsOnWikipedia|
