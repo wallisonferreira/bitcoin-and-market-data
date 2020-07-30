@@ -1,4 +1,4 @@
-### Attributes
+### Columns
 
 - Bitcoin Days Destroyed
 - Cost Per Transaction
@@ -26,7 +26,7 @@
 
 #### ***From 2009-01-03 to 2019-05-30***
 
-| Attribute                       | Source                                                             | Secondary name
+| Columns                       | Source                                                             | Label name
 | :------------------------------ | :---------------------------------------------------------------   |:-------------------------|
 |Bitcoin Days Destroyed	          |https://blockchair.com/bitcoin/blocks?	                           |Bitcoin_DD                |
 |Cost Per Transaction	          |https://www.blockchain.com/pt/charts/cost-per-transaction	       |CostPerTransaction        |
